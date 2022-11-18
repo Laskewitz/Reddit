@@ -1,4 +1,4 @@
-# Reddit
+# Reddit Connector
 
 ## Deploy the connector
 
