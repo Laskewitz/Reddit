@@ -1125,7 +1125,7 @@
         },
         "parameters": [ ],
         "description": "Return a list of trophies for the current user.",
-        "summary": "Get Trophies",
+        "summary": "Get my trophies",
         "operationId": "GetTrophies",
         "x-ms-visibility": "advanced"
       }
