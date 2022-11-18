@@ -1,8 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Default title",
-    "description": "",
+    "title": "Reddit",
+    "description": "Reddit is a social news aggregation, content rating, and discussion website. Registered users submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members.",
     "version": "1.0"
   },
   "host": "oauth.reddit.com",
