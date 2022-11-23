@@ -1171,7 +1171,7 @@
         },
         "summary": "Get my karma",
         "description": "Return a breakdown of subreddit karma.",
-        "operationId": "GetKarma",
+        "operationId": "GetMyKarma",
         "x-ms-visibility": "advanced",
         "parameters": [ ]
       }
